@@ -146,3 +146,9 @@ export function max (val, arg) {
 function isInteger (val) {
   return /^(-?[1-9]\d*|0)$/.test(val)
 }
+
+export function digitsbetween(val, min, max) {
+}
+
+export function isboolean(val){
+}
